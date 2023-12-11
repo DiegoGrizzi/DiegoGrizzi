@@ -57,4 +57,3 @@
 
 </div>
 <div>
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
