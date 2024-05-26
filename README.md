@@ -6,7 +6,7 @@
 
 💻 I'm a developer Fullstack
 
-🎓 I study [[Fullstack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @[Cubos Academy](https://cubos.academy/)
+🎓 I study [[Fullstack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @[Cubos Academy](https://cubos.academy/) | @[Dio](https://www.dio.me/)
 
 👩‍💻 I'm currently going through a career transition and looking for my first job in programming.
 
@@ -40,11 +40,13 @@
 
 ### GitHub Stats ⚡
 
-<div>
-<a href="https://github.com/DiegoGrizzi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGrizzi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoGrizzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoGrizzi&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoGrizzi&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## My Contributions
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoGrizzi&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DiegoGrizzi/dio-lab-open-source)
 
 ### Contact me! 📭
 
